@@ -58,6 +58,3 @@ This project uses Firebase. To run it, you will need to create your own Firebase
     *   It will also prompt you to download `google-services.json` (for Android) and `GoogleService-Info.plist` (for iOS). Place these in the correct directories (`android/app/` and `ios/Runner/`).
 5.  Run `flutter pub get` to install dependencies.
 6.  Run the app: `flutter run`
-
----
-_This project was built as a portfolio piece to showcase modern, professional Flutter development. Created in partnership with an AI architect._
